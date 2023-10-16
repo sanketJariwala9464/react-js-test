@@ -7,7 +7,7 @@ Create a frontend in React.js + Vite. Anti-design for UI.
 cp .env.example .env
 ```
 
-Add the database configuration to the .env file
+Add the api url to the .env file
 ```bash
 VITE_APP_URL=
 ```
